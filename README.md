@@ -8,7 +8,7 @@
 
 
 
-![Manuela GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuelalviana&show_icons=true&theme=gruvbox)
+![Manuela GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuelalviana&show_icons=true&theme=cobalt)
 ##Tecnologias 
 <div>
   
