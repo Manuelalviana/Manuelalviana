@@ -7,7 +7,7 @@
 
 ![Manuela GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuelalviana&show_icons=true&theme=cobalt)
 
-[![Manuela wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Manuelalviana)](https://github.com/Manuelalviana/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuelalviana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ##Tecnologias 
 <div>
   
