@@ -5,10 +5,9 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/manuelalviana/)
 
 
-
-
-
 ![Manuela GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuelalviana&show_icons=true&theme=cobalt)
+
+[![Manuela wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Manuelalviana)](https://github.com/Manuelalviana/github-readme-stats)
 ##Tecnologias 
 <div>
   
